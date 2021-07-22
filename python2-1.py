@@ -1,4 +1,4 @@
-#x = 60
+x = 60
 if x >= 80:
     print ( "A" )
 elif x >= 60:

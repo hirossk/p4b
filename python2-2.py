@@ -1,6 +1,6 @@
 x = 60
 if x >= 80:
-    #mes = "excellent"
+    mes = "excellent"
 elif x >= 60:
     mes = "good"
 elif x >= 40:
