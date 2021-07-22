@@ -1,0 +1,5 @@
+x = input ( "math = " )
+m = int ( x ) 
+y = input ( "english = " )
+e = int ( y )
+print ( "The average score is " + (m + e) / 2 )
