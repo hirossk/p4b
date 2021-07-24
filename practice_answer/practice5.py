@@ -1,0 +1,7 @@
+x = input ( "math = " )
+m = int ( x ) 
+x = input ( "english = " )
+e = int ( x )
+z = input ( "social = " )
+s = int ( z )
+print ( (m + e + s) / 3 )

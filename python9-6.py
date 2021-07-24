@@ -1,5 +1,4 @@
 from PIL import Image,ImageDraw
-import time
 
 im = Image.new('RGB', (500, 500),(255,255,255))
 
