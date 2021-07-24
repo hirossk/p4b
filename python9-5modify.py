@@ -4,7 +4,7 @@ im = Image.new('RGB', (500, 500),(255,255,255))
 #背景をクリーム色で描画用のエリアを作成します。
 
 draw = ImageDraw.Draw(im)
-#black=( 0 , 0 , 0 )
+black=( 0 , 0 , 0 )
 draw.ellipse((100,100,400,400),fill=(230,150,110))
 draw.ellipse((190,155,220,210),fill=black)
 draw.ellipse((280,155,310,210),fill=black)
