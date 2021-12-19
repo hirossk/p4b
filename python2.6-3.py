@@ -6,7 +6,7 @@ for s in subjects:
     y = int ( x )
     scores.append( y )
 
-for n in range(0,5):
+for n in range(5):
     if scores[n] >= 60:
         mes = "合格"
     else:

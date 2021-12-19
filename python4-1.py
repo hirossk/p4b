@@ -1,5 +1,0 @@
-x = input ( "math = " )
-m = int ( x ) 
-y = input ( "english = " )
-e = int ( y )
-print ( "The average score is " + str((m + e) / 2) )
