@@ -14,6 +14,9 @@ while cnt <= 5:
 
 # 同様の記述をfor文を使って記述します
 # rangeは値の塊を作るイメージここでは1,2,3,4,5の値を作ります
+# rangeのカッコの中は整数で（初期値start,停止値stop,増分値step）
+# 停止値（stop）はstop - 1の値を最大値とする（増分値がマイナスの
+# 場合はstop + 1の値が最小値となる 
 #for cnt in range(1,6):
 #    print("2 cnt = ", cnt)
 
