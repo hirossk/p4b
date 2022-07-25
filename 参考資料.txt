@@ -1,3 +1,5 @@
+情報処理学会の教材はこちらで参照できます
+https://sites.google.com/a.ipsj.or.jp/mooc/list
 #Pythonのチュートリアル
 https://docs.python.org/ja/3/tutorial/index.html
 #CSVとJSONの変換
