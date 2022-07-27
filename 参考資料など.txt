@@ -4,3 +4,6 @@ https://sites.google.com/a.ipsj.or.jp/mooc/list
 https://docs.python.org/ja/3/tutorial/index.html
 #CSVとJSONの変換
 https://www.aconvert.com/jp/document/csv-to-json/
+
+終了後アンケートのお願い
+https://forms.office.com/r/fau8q8UcTg
